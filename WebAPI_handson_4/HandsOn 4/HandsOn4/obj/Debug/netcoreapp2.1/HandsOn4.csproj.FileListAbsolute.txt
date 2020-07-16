@@ -1,0 +1,36 @@
+C:\Users\user\source\repos\HandsOn4\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\source\repos\HandsOn4\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\source\repos\HandsOn4\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\source\repos\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.deps.json
+C:\Users\user\source\repos\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.runtimeconfig.json
+C:\Users\user\source\repos\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.runtimeconfig.dev.json
+C:\Users\user\source\repos\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.dll
+C:\Users\user\source\repos\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.pdb
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.AssemblyInfo.cs
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.dll
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.pdb
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.genruntimeconfig.cache
+C:\Users\user\source\repos\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.deps.json
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.dll
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\bin\Debug\netcoreapp2.1\HandsOn4.pdb
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.dll
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.pdb
+C:\Users\user\OneDrive\Desktop\Stage 4 HandsOn\HandsOn 4\HandsOn4\obj\Debug\netcoreapp2.1\HandsOn4.genruntimeconfig.cache
